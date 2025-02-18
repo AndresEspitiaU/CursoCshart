@@ -1,0 +1,15 @@
+C:\Users\57315\Documents\AndresEspitia\CursoCshart\DecisionesYBucles\DecisionesYBucles\bin\Debug\net8.0\DecisionesYBucles.exe
+C:\Users\57315\Documents\AndresEspitia\CursoCshart\DecisionesYBucles\DecisionesYBucles\bin\Debug\net8.0\DecisionesYBucles.deps.json
+C:\Users\57315\Documents\AndresEspitia\CursoCshart\DecisionesYBucles\DecisionesYBucles\bin\Debug\net8.0\DecisionesYBucles.runtimeconfig.json
+C:\Users\57315\Documents\AndresEspitia\CursoCshart\DecisionesYBucles\DecisionesYBucles\bin\Debug\net8.0\DecisionesYBucles.dll
+C:\Users\57315\Documents\AndresEspitia\CursoCshart\DecisionesYBucles\DecisionesYBucles\bin\Debug\net8.0\DecisionesYBucles.pdb
+C:\Users\57315\Documents\AndresEspitia\CursoCshart\DecisionesYBucles\DecisionesYBucles\obj\Debug\net8.0\DecisionesYBucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57315\Documents\AndresEspitia\CursoCshart\DecisionesYBucles\DecisionesYBucles\obj\Debug\net8.0\DecisionesYBucles.AssemblyInfoInputs.cache
+C:\Users\57315\Documents\AndresEspitia\CursoCshart\DecisionesYBucles\DecisionesYBucles\obj\Debug\net8.0\DecisionesYBucles.AssemblyInfo.cs
+C:\Users\57315\Documents\AndresEspitia\CursoCshart\DecisionesYBucles\DecisionesYBucles\obj\Debug\net8.0\DecisionesYBucles.csproj.CoreCompileInputs.cache
+C:\Users\57315\Documents\AndresEspitia\CursoCshart\DecisionesYBucles\DecisionesYBucles\obj\Debug\net8.0\DecisionesYBucles.sourcelink.json
+C:\Users\57315\Documents\AndresEspitia\CursoCshart\DecisionesYBucles\DecisionesYBucles\obj\Debug\net8.0\DecisionesYBucles.dll
+C:\Users\57315\Documents\AndresEspitia\CursoCshart\DecisionesYBucles\DecisionesYBucles\obj\Debug\net8.0\refint\DecisionesYBucles.dll
+C:\Users\57315\Documents\AndresEspitia\CursoCshart\DecisionesYBucles\DecisionesYBucles\obj\Debug\net8.0\DecisionesYBucles.pdb
+C:\Users\57315\Documents\AndresEspitia\CursoCshart\DecisionesYBucles\DecisionesYBucles\obj\Debug\net8.0\DecisionesYBucles.genruntimeconfig.cache
+C:\Users\57315\Documents\AndresEspitia\CursoCshart\DecisionesYBucles\DecisionesYBucles\obj\Debug\net8.0\ref\DecisionesYBucles.dll
